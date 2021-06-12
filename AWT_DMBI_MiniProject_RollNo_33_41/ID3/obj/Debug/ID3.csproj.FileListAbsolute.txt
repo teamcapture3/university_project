@@ -1,0 +1,40 @@
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.exe.config
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3\ID3\bin\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.Properties.Resources.resources
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.csproj.GenerateResource.Cache
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.Main.resources
+D:\PROJECT\Năm 3\ID3\ID3\obj\Debug\ID3.About.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.exe.config
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3_LTT\ID3\bin\Debug\ID3.pdb
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.csprojResolveAssemblyReference.cache
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.About.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.Main.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.Properties.Resources.resources
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.csproj.GenerateResource.Cache
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.exe
+D:\PROJECT\Năm 3\ID3_LTT\ID3\obj\Debug\ID3.pdb
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\bin\Debug\ID3.exe.config
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\bin\Debug\ID3.exe
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\bin\Debug\ID3.pdb
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.About.resources
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.Main.resources
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.Properties.Resources.resources
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.csproj.GenerateResource.cache
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.exe
+C:\Users\ninad\Documents\Visual Studio 2010\Projects\decision-tree-ID3-master\ID3\obj\Debug\ID3.pdb
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\bin\Debug\ID3.exe.config
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\bin\Debug\ID3.exe
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\bin\Debug\ID3.pdb
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.csprojAssemblyReference.cache
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.About.resources
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.Main.resources
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.Properties.Resources.resources
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.csproj.GenerateResource.cache
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.exe
+E:\MCA Data\MCA\SYMCA\Sem 4\Practical\AWT\Mini Project\decision-tree\ID3\obj\Debug\ID3.pdb
